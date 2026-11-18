@@ -4,7 +4,7 @@ Qué se hizo, dónde está y qué queda abierto. Si vas a revisar, parte por aqu
 
 ## Cómo verlo
 
-- **En línea:** las maquetas y los ejercicios 3D quedan publicados en Firebase Hosting, en `https://gymtrack-mas-2026.web.app` (proyecto `gymtrack-mas-2026`).
+- **En línea:** las maquetas y los ejercicios 3D quedan publicados en Firebase Hosting, en `https://gymtrack-5dd46.web.app` (proyecto `gymtrack-5dd46`).
 - **En tu computador:** desde la raíz del repo, `python3 -m http.server 4322 --directory docs/pantallas` y abre `http://localhost:4322`. La página de inicio enlaza todo.
 
 ## 1. Marca · `docs/marca/v2/`
@@ -51,7 +51,7 @@ Qué se hizo, dónde está y qué queda abierto. Si vas a revisar, parte por aqu
 
 ## Lo que queda abierto
 
-- **Firebase:** aceptar los términos de Firebase en la consola y agregarlo al proyecto `gymtrack-mas-2026` (sin eso no se puede publicar). Para Storage y App Distribution hará falta el plan Blaze, que pide tarjeta pero trae cuota gratis.
+- **Firebase:** aceptar los términos de Firebase en la consola y agregarlo al proyecto `gymtrack-5dd46` (sin eso no se puede publicar). Para Storage y App Distribution hará falta el plan Blaze, que pide tarjeta pero trae cuota gratis.
 - **Resend:** crear la cuenta y verificar el dominio de los correos (registros DNS SPF y DKIM). Ver `apps/api/README.md`.
 - **Vultr:** confirmar ubicación, tamaño y dominio (`api.` y `api-staging.`); precios marcados «no verificado».
 - **PRD:** actualizar las secciones que todavía dicen Railway.
